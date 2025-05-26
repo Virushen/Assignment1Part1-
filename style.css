@@ -1,0 +1,24 @@
++26
+Lines changed: 26 additions & 0 deletions
+Original file line number	Diff line number	Diff line change
+@@ -0,0 +1,26 @@
+body {
+  max-width: 800px;
+  margin: 0 auto;
+}
+.sender-column {
+  text-align: right;
+}
+h1 {
+  font-size: 1.5em;
+}
+h2 {
+  font-size: 1.3em;
+}
+p, ul, ol, dl, address {
+  font-size: 1.1em;
+}
+p, li, dd, dt, address {
+  line-height: 1.5;
+}
+Add style.css for shared page styling
